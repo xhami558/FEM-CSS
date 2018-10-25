@@ -1,0 +1,8 @@
+ul        { font-weight: bold; }
+li        { color: yellow; }
+.myClass  { color: red; }
+#myID     { color: blue; }
+ul li, 
+ol li
+descendant selector
+matches nested <li>s
