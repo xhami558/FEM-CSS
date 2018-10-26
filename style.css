@@ -1,8 +1,16 @@
-ul        { font-weight: bold; }
-li        { color: yellow; }
-.myClass  { color: red; }
-#myID     { color: blue; }
-ul li, 
-ol li
-descendant selector
-matches nested <li>s
+h5 {
+  color: red;
+}
+.leading-p {
+  color: yellow;
+}
+
+.secondry-p {
+color: blue;
+}
+
+blog-post {
+  border: 1px ; solid black;
+  margin-bottom: 5px;
+  padding : 5px;
+}
